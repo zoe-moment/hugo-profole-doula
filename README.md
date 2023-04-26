@@ -1,4 +1,4 @@
-# Hugo Profile | [Wiki Page](https://github.com/gurusabarish/hugo-profile/wiki)
+# Hugo DoulaProfile | [Wiki Page](https://github.com/gurusabarish/hugo-profile/wiki)
 
 [![Twitter](https://img.shields.io/twitter/url?label=Tweet&style=social&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile) [![GitHub forks](https://img.shields.io/github/forks/gurusabarish/hugo-profile?style=plastic)](https://github.com/gurusabarish/hugo-profile/network) [![GitHub stars](https://img.shields.io/github/stars/gurusabarish/hugo-profile?style=plastic)](https://github.com/gurusabarish/hugo-profile/stargazers)
 
@@ -9,9 +9,9 @@
 ![Open Pull Requests](https://img.shields.io/github/issues-pr/gurusabarish/hugo-profile?color=yellowgreen)
 ![License](https://img.shields.io/github/license/gurusabarish/hugo-profile)
 
-A high performance and mobile first hugo template for personal portfolio and blog
+Doula portfolio and blog adaped from [https://github.com/gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile)
 
-- Example Site: [hugo-profile.netlify.app](https://hugo-profile.netlify.app)
+- Example Site: [x](x)
 
 # Features
 - Fully Responsive
@@ -44,7 +44,7 @@ Technology used: Bootstrap, fontawesome
 - Clone this repo inside your themes folder
 ```
 cd themes
-git clone https://github.com/gurusabarish/hugo-profile.git
+git clone https://github.com/zoe-moment/hugo-profile-doula.git
 ```
 - Create config.yaml (you can use `config.toml` too) inside root folder 
 - Setup the configurations in `config.yaml`. [reference](https://github.com/gurusabarish/hugo-profile/blob/master/exampleSite/config.yaml)
@@ -74,11 +74,3 @@ Contributions, issues, and feature requests are welcome! For major changes, plea
 # License
 
 Licensed under [MIT](LICENSE)
-
-# 🤝 Support
-
-Give a ⭐️ or buy me a ~`coffee`~ tea if you like this project!
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q7BFFGU)
-
-<a href="https://www.buymeacoffee.com/gurusabarish" target="_blank" rel="noopener"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="145" alt="Buy Me A Coffee"></a>
