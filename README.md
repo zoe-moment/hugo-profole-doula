@@ -1,15 +1,10 @@
 # Hugo DoulaProfile
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5c1dcb34-cada-4c80-82b7-cfdbdbd7c774/deploy-status)](https://app.netlify.com/sites/hugo-profile-doula/deploys)
-![Latest Release](https://img.shields.io/github/v/release/zoe-moment/hugo-profile-doula?include_prereleases)
-![Last Commit](https://img.shields.io/github/last-commit/zoe-moment/hugo-profile-doula)
-![Open Issues](https://img.shields.io/github/issues/zoe-moment/hugo-profile-doula?color=important)
-![Open Pull Requests](https://img.shields.io/github/issues-pr/zoe-moment/hugo-profile-doula?color=yellowgreen)
-![License](https://img.shields.io/github/license/zoe-moment/hugo-profile-doula)
+![License](https://img.shields.io/github/license/zoe-moment/themeHugoProfile_healthcareDoula)
 
-Doula portfolio and blog adaped from [https://github.com/gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile) | [Wiki Page](https://github.com/gurusabarish/hugo-profile/wiki)
+Hugo theme forked from [https://github.com/gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile). This repo to serve as base for opensource healthcare worker profile for Doulas.
 
-- Example Site: [x](x)
+- Example Site: [#](TBA)
 
 # Features
 - Fully Responsive
