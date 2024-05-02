@@ -1,12 +1,27 @@
 # Hugo DoulaProfile
 
-![License](https://img.shields.io/github/license/zoe-moment/themeHugoProfile_healthcareDoula)
+![License](https://img.shields.io/github/license/zoe-moment/themeHugoProfile_healthcareDoula) 
 
-Hugo theme forked from [https://github.com/gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile). This repo to serve as base for opensource healthcare worker profile for Doulas.
+[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
 
-- Example Site: [#](TBA)
+ >This repo to serve as base for opensource healthcare worker profile for Doulas.
 
-# Features
+Example Site: [#](TBA)
+
+## Table of Contents
+
+- [Security](#security)
+- [Background](#background)
+- [Install](#install)
+- [Usage](#usage)
+- [Deployment](#deployment)
+- [Thanks](#thanks-and-inspiration)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Background
+
+### Features
 - Fully Responsive
 - Minimalist Design
 - SEO Friendly.
@@ -19,51 +34,43 @@ Hugo theme forked from [https://github.com/gurusabarish/hugo-profile](https://gi
   - [Disqus](https://gohugo.io/content-management/comments/)
 - Integration with [FormSpree](https://formspree.io/) for submitting "Contact me" form
 
-Technology used: Bootstrap, fontawesome 
+## Install
+[Direct deployment using netlify](#direct-deployment-using-netlify)
 
-# Requirements
-- Hugo Version 0.87.0 or higher
+[Organizing Hugo's content](https://www.giraffeacademy.com/static-site-generators/hugo/content-organization/)
 
-
-# How to use this template
-
-- [Hugo theme](#Hugo-theme)
-- [Direct deployment using netlify](#Direct-deployment-using-netlify)
-
-[For more details](https://github.com/gurusabarish/hugo-profile/wiki)
-## Hugo theme
-
-- Install Hugo and create a site using `hugo new site my-site -f=yaml`
-- Clone this repo inside your themes folder
+1. Create a new hugo site formatted in YAML
+```sh
+hugo new site mySite -f=yaml
 ```
-cd themes
-git clone https://github.com/zoe-moment/hugo-profile-doula.git
+2. Navigate inside of the new site `cd mySite`
+3. Clone this repo into your empty themes forlder 
+```sh
+git clone https://github.com/zothsu/hugo-profile-doula.git /themes
 ```
-- Create config.yaml (you can use `config.toml` too) inside root folder 
-- Setup the configurations in `config.yaml`. [reference](https://github.com/gurusabarish/hugo-profile/blob/master/exampleSite/config.yaml)
-- You should have the mentioned (_inside the config file_) images in static folder to use them.
+4. Create config.yaml inside root folder. Setup the configurations in `config.yaml`. [reference](https://github.com/gurusabarish/hugo-profile/blob/master/exampleSite/config.yaml)
+```sh
+touch config.yaml
+```
 
-For more details: [Hugo's official docs](https://gohugo.io/getting-started/quick-start/), [content management](https://www.mikedane.com/static-site-generators/hugo/content-organization/)
-
-## Direct deployment using netlify
-
-- Fork this repo or create new repo using `use this template` button and connect repo to netlify.
-- whenever you customize the files exampleSite folder, netlify will automatically deploy your changes.
-
-For more details: [host on netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/), [content management](https://www.mikedane.com/static-site-generators/hugo/content-organization/)
-
-# Deployment
+### Deployment
 
 Run `hugo`. It will generate a folder called public. You can use the files inside public folder for deployment. You should delete the public folder for each time when you are using `hugo` commend.
 
-# Issues
+### Direct deployment using netlify
 
-If you have a question, please [open an issue](https://github.com/gurusabarish/hugo-profile/issues) for help and to help those who come after you. The more information you can provide, the better!
+Fork this repo or create new repo using `use this template` button and connect repo to netlify.
+- whenever you customize the files exampleSite folder, netlify will automatically deploy your changes.
 
-# Contributing
+For more details: [host on netlify](https://gohugo.io/hosting-and-deployment/hosting-on-netlify/)
 
-Contributions, issues, and feature requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+## Thanks and inspiration
 
-# License
+- [Standard README](https://github.com/RichardLitt/standard-readme) - The readme standard
+
+Hugo theme forked from [https://github.com/gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile).
+
+## Contributing
+## License
 
 Licensed under [MIT](LICENSE)
