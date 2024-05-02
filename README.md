@@ -66,11 +66,13 @@ For more details: [host on netlify](https://gohugo.io/hosting-and-deployment/hos
 
 ## Thanks and inspiration
 
-- [Standard README](https://github.com/RichardLitt/standard-readme) - The readme standard
+[Standard README](https://github.com/RichardLitt/standard-readme) - The readme standard
 
 Hugo theme forked from [https://github.com/gurusabarish/hugo-profile](https://github.com/gurusabarish/hugo-profile).
 
 ## Contributing
+See [the contributing file](CONTRIBUTING.md)!
+
 ## License
 
 Licensed under [MIT](LICENSE)
